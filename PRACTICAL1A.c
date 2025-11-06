@@ -32,5 +32,5 @@ int main()
     printf("The sum of the elements at even index is %d\n", sume);
     printf("The sum of the elements at odd index is %d\n", sumo);
     
-    return 0
+    return 0;
 }
